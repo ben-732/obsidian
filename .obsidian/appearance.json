@@ -2,10 +2,11 @@
   "accentColor": "",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "something"
+    "something",
+    "snippetsextended-colorschemes"
   ],
   "theme": "obsidian",
   "nativeMenus": false,
   "translucency": false,
-  "cssTheme": "Dracula Official"
+  "cssTheme": "AnuPpuccin"
 }

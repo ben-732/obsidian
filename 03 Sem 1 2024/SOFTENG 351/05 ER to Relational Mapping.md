@@ -82,3 +82,5 @@ Include as foreign key attributes in $S$ the primary keys of the relations that 
 Also include any simple attributes of the n-ary relationship type (or simple components of composite attributes) as attributes of $S$.
 ![[Pasted image 20240314152220.png | center | 200]]
 
+### Summary
+![[Pasted image 20240317143925.png | center | 600]]

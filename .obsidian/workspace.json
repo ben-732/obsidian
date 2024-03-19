@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cc077fd98d93a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Sem 1 2024/COMPSYS 305/05 Data Types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc8c23db372e86ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Sem 2 2023/ENGGEN 204/09 Presentations.md",
+                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Sem 2 2023/ENGGEN 204/09 Presentations.md",
+                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Sem 2 2023/ENGGEN 204/09 Presentations.md",
+                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Sem 2 2023/ENGGEN 204/09 Presentations.md"
+                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md"
               }
             }
           },
@@ -176,42 +162,42 @@
   },
   "active": "cc8c23db372e86ec",
   "lastOpenFiles": [
+    "03 Sem 1 2024/COMPSYS 305/07 Structural Description.md",
+    "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
+    "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md",
+    "03 Sem 1 2024/COMPSYS 305/06 Data Types.md",
+    "03 Sem 1 2024/COMPSYS 305/02 VHDL.md",
+    "03 Sem 1 2024/COMPSYS 305/04 Sequential Programming.md",
+    "03 Sem 1 2024/COMPSYS 305/03 Delay Modelling.md",
+    "03 Sem 1 2024/SOFTENG 370/05 Inter-Process Communication (ICP).md",
+    "03 Sem 1 2024/COMPSYS 305/06 Structural Description.md",
+    "03 Sem 1 2024/COMPSYS 305/08 Structural Description.md",
+    "03 Sem 1 2024/COMPSYS 305/07 Data Types.md",
+    "03 Sem 1 2024/COMPSYS 305/05 Inter-Process Communication (ICP).md",
+    "03 Sem 1 2024/COMPSYS 305/06 Packages & Libraries.md",
+    "03 Sem 1 2024/SOFTENG 351/06 Basic SQL.md",
+    "03 Sem 1 2024/SOFTENG 351/05 ER to Relational Mapping.md",
+    "03 Sem 1 2024/SOFTENG 351/06 SQL.md",
+    "03 Sem 1 2024/SOFTENG 351/06 - SQL.md",
+    "03 Sem 1 2024/SOFTENG 351/Untitled.md",
+    "Attachments/Pasted image 20240317143925.png",
+    "Attachments/Pasted image 20240315092952.png",
+    "Attachments/Pasted image 20240315092926.png",
+    "Attachments/Pasted image 20240315091933.png",
+    "Attachments/Pasted image 20240315091602.png",
+    "Attachments/Pasted image 20240315091518.png",
+    "Attachments/Pasted image 20240315091503.png",
+    "03 Sem 1 2024/COMPSYS 305/05 Data Types.md",
+    "02 Sem 2 2023/ENGGEN 204/09 Presentations.md",
     "01 Sem 1 2023/ENGSCI 211 DA kinda/Machine Learning.md",
     "01 Sem 1 2023/ENGSCI 211 DA kinda/Multiplicative Models.md",
     "03 Sem 1 2024/COMPSYS 305/01 Digital systems simulation.md",
     "03 Sem 1 2024/SOFTENG 351/03 Modelling Relationships.md",
     "03 Sem 1 2024/SOFTENG 351/02 Data Modelling.md",
     "03 Sem 1 2024/SOFTENG 351/01 Intro to Databases.md",
-    "03 Sem 1 2024/SOFTENG 351/05 - ER to Relational Mapping.md",
     "Attachments/Pasted image 20240314152220.png",
-    "03 Sem 1 2024/COMPSYS 305/02 VHDL.md",
-    "03 Sem 1 2024/SOFTENG 351/04 Relational Data Model.md",
-    "03 Sem 1 2024/SOFTENG 370/03 Kernel Module Development.md",
-    "06 Packages & Libraries.md",
     "Attachments/Pasted image 20240313093737.png",
     "Attachments/Pasted image 20240313093712.png",
-    "Attachments/Pasted image 20240313092414.png",
-    "03 Sem 1 2024/COMPSYS 305/05 Data Types.md",
-    "03 Sem 1 2024/COMPSYS 305/04 Sequential Programming.md",
-    "Attachments/Pasted image 20240313091229.png",
-    "Untitled.md",
-    "Attachments/Pasted image 20240305155032.png",
-    "Attachments/Pasted image 20240305154413.png",
-    "Attachments/Pasted image 20240305153553.png",
-    "Attachments/Pasted image 20240305152851.png",
-    "Attachments/Pasted image 20240305152246.png",
-    "01 Sem 1 2023/SOFTENG 282/Graphs/Path Theorems.md",
-    "02 Sem 2 2023/SOFTENG 284/Rajko/4. Sorting.md",
-    "03 Sem 1 2024/SOFTENG 370/04 Process Creation.md",
-    "03 Sem 1 2024/SOFTENG 370/02 C Programming.md",
-    "03 Sem 1 2024/COMPSYS 305/03 Delay Modelling.md",
-    "03 Sem 1 2024/COMPSYS 305/05 Signal Attributes.md",
-    "05 Inter-Process Communication (ICP).md",
-    "05 Inter process communication.md",
-    "03 Sem 1 2024/SOFTENG 370/01 Intro to OS.md",
-    "02 Sem 2 2023/SOFTENG 284/Rajko/8. Hashing.md",
-    "02 Sem 2 2023/SOFTENG 284/Rajko/7. Data structures.md",
-    "02 Sem 2 2023/SOFTENG 284/Rajko/6. Union Find.md",
     "03 Sem 1 2024/COMPSYS 305",
     "03 Sem 1 2024/SOFTENG 351",
     "03 Sem 1 2024/SOFTENG 370",

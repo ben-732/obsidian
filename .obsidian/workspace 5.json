@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Sem 1 2024/SOFTENG 351/04 Relational Data Model.md",
+                "file": "03 Sem 1 2024/SOFTENG 370/05 Inter-Process Communication (ICP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6900a01e40c57ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"03 Sem 1 2024/COMPSYS 305/\" bin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 400.5
   },
   "right": {
     "id": "a5a61b5de0fe0b1f",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Sem 1 2024/SOFTENG 351/04 Relational Data Model.md",
+                "file": "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Sem 1 2024/SOFTENG 351/04 Relational Data Model.md",
+                "file": "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Sem 1 2024/SOFTENG 351/04 Relational Data Model.md"
+                "file": "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md"
               }
             }
           },
@@ -190,17 +203,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "352dd64014fee0f5",
+  "active": "6900a01e40c57ce4",
   "lastOpenFiles": [
-    "03 Sem 1 2024/SOFTENG 351/01 Intro to Databases.md",
+    "03 Sem 1 2024/COMPSYS 305/06 Data Types.md",
+    "03 Sem 1 2024/COMPSYS 305/02 VHDL.md",
+    "03 Sem 1 2024/COMPSYS 305/03 Delay Modelling.md",
+    "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md",
+    "03 Sem 1 2024/COMPSYS 305/07 Structural Description.md",
+    "03 Sem 1 2024/COMPSYS 305/04 Sequential Programming.md",
+    "03 Sem 1 2024/COMPSYS 305/01 Digital systems simulation.md",
+    "03 Sem 1 2024/SOFTENG 370/05 Inter-Process Communication (ICP).md",
+    "03 Sem 1 2024/SOFTENG 351/06 Basic SQL.md",
+    "03 Sem 1 2024/SOFTENG 351/05 ER to Relational Mapping.md",
+    "Attachments/Pasted image 20240317143925.png",
     "03 Sem 1 2024/SOFTENG 351/04 Relational Data Model.md",
+    "03 Sem 1 2024/SOFTENG 351/01 Intro to Databases.md",
     "Attachments/Pasted image 20240312214429.png",
     "Attachments/Pasted image 20240312212259.png",
     "03 Sem 1 2024/SOFTENG 351/02 Data Modelling.md",
     "03 Sem 1 2024/SOFTENG 351/03 Modelling Relationships.md",
     "Attachments/Pasted image 20240312211256.png",
     "Attachments/Pasted image 20240312210937.png",
-    "05 Inter-Process Communication (ICP).md",
     "Attachments/Pasted image 20240312192134.png",
     "Attachments/Pasted image 20240312192018.png",
     "Attachments/Pasted image 20240312191420.png",
@@ -218,16 +241,7 @@
     "Sem 2 2023/SOFTENG 284/zGraphs/10 Spanning trees.md",
     "Sem 2 2023/SOFTENG 284/zGraphs/09 Weighted Graphs.md",
     "Sem 2 2023/SOFTENG 284/zGraphs/08 Maximal Matchings.md",
-    "Sem 2 2023/SOFTENG 284/zGraphs/07 Bipartite Graphs.md",
-    "Sem 1 2023/SOFTENG 282/Graphs/Special Graphs.md",
-    "Sem 1 2023/SOFTENG 282/Graphs/Path Theorems.md",
-    "Sem 1 2023/SOFTENG 282/Graphs/Types of Graphs.md",
-    "Sem 2 2023/SOFTENG 283/Part 1/Requirements Engineering.md",
-    "Sem 2 2023/SOFTENG 283/Part 1/Version Control Systems (VCS).md",
-    "Sem 2 2023/SOFTENG 283/Part 2/Testing.md",
-    "Sem 2 2023/SOFTENG 283/Part 2/Intro to Code Quality.md",
     "Attachments/Pasted image 20231031173433.png",
-    "Attachments/Pasted image 20231031173351.png",
     "Untitled.canvas"
   ]
 }

@@ -4,7 +4,7 @@ In VHDL'93 there are four classes of objects.
 - Constants
 - Files
 ```vhdl
-signal signal_name: signal_type [:= initial_value];
+signal signal_name: signal_type [<= initial_value];
 variable variable_name: variable_type [:= initial_value];
 constant constant_name: constant_type [:= initial_value];
 
