@@ -8,7 +8,10 @@
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-peach",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
-  "anuppuccin-theme-settings@@callout-title-padding": "12px",
+  "anuppuccin-theme-settings@@callout-title-padding": "12px 16px",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
+  "anuppuccin-theme-settings@@callout-content-padding": "4px 16px 16px 16px",
+  "anuppuccin-theme-settings@@callout-radius": 8,
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": true
 }

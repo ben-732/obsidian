@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "c21644736bd006c7",
+    "id": "80136ffd567f00d1",
     "type": "split",
     "children": [
       {
-        "id": "b1ba4da3b6a4069a",
+        "id": "3cd6a2d934d7b3dc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc8c23db372e86ec",
+            "id": "5a4f39d9107d387d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
+                "file": "03 Sem 1 2024/SOFTENG 370/Summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3aa57f50d6e2737f",
+    "id": "f791e8495b0c447d",
     "type": "split",
     "children": [
       {
-        "id": "17c38c7861e7394b",
+        "id": "5e4d93ef8af5434b",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8703194b812296",
+            "id": "197842de4e8993fa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "b9db0203f2a3edd7",
+            "id": "103f181cbff2bcea",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "atomic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "3efc00036bfe8993",
+            "id": "52bd01f190e2ea59",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +70,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 400.5
   },
   "right": {
-    "id": "ab9e1dfad7cbdc39",
+    "id": "a5a61b5de0fe0b1f",
     "type": "split",
     "children": [
       {
-        "id": "b48a2104b7425156",
+        "id": "ef858998d174201d",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e198bfdd991ca4",
+            "id": "9b214c919d65a71b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
+                "file": "03 Sem 1 2024/SOFTENG 370/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,40 +98,40 @@
             }
           },
           {
-            "id": "d2696d0798a5e578",
+            "id": "2bdb9693243a142f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
+                "file": "03 Sem 1 2024/SOFTENG 370/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e98170e4096a3932",
+            "id": "d21d6d99408563ae",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "bed18216b5cf05e8",
+            "id": "0908a4b55c8a1cf8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md"
+                "file": "03 Sem 1 2024/SOFTENG 370/Summary.md"
               }
             }
           },
           {
-            "id": "0bfea442cb130a03",
+            "id": "701e0417b77972b0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,73 +141,77 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "55fd8685e9fcab8d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cc8c23db372e86ec",
+  "active": "5a4f39d9107d387d",
   "lastOpenFiles": [
-    "03 Sem 1 2024/COMPSYS 305/07 Structural Description.md",
-    "03 Sem 1 2024/COMPSYS 305/Synthesis of Digital Circuits.md",
-    "03 Sem 1 2024/COMPSYS 305/05 Packages & Libraries.md",
-    "03 Sem 1 2024/COMPSYS 305/06 Data Types.md",
-    "03 Sem 1 2024/COMPSYS 305/02 VHDL.md",
-    "03 Sem 1 2024/COMPSYS 305/04 Sequential Programming.md",
-    "03 Sem 1 2024/COMPSYS 305/03 Delay Modelling.md",
-    "03 Sem 1 2024/SOFTENG 370/05 Inter-Process Communication (ICP).md",
-    "03 Sem 1 2024/COMPSYS 305/06 Structural Description.md",
-    "03 Sem 1 2024/COMPSYS 305/08 Structural Description.md",
-    "03 Sem 1 2024/COMPSYS 305/07 Data Types.md",
-    "03 Sem 1 2024/COMPSYS 305/05 Inter-Process Communication (ICP).md",
-    "03 Sem 1 2024/COMPSYS 305/06 Packages & Libraries.md",
-    "03 Sem 1 2024/SOFTENG 351/06 Basic SQL.md",
-    "03 Sem 1 2024/SOFTENG 351/05 ER to Relational Mapping.md",
-    "03 Sem 1 2024/SOFTENG 351/06 SQL.md",
-    "03 Sem 1 2024/SOFTENG 351/06 - SQL.md",
-    "03 Sem 1 2024/SOFTENG 351/Untitled.md",
-    "Attachments/Pasted image 20240317143925.png",
-    "Attachments/Pasted image 20240315092952.png",
-    "Attachments/Pasted image 20240315092926.png",
-    "Attachments/Pasted image 20240315091933.png",
-    "Attachments/Pasted image 20240315091602.png",
-    "Attachments/Pasted image 20240315091518.png",
-    "Attachments/Pasted image 20240315091503.png",
-    "03 Sem 1 2024/COMPSYS 305/05 Data Types.md",
-    "02 Sem 2 2023/ENGGEN 204/09 Presentations.md",
-    "01 Sem 1 2023/ENGSCI 211 DA kinda/Machine Learning.md",
-    "01 Sem 1 2023/ENGSCI 211 DA kinda/Multiplicative Models.md",
-    "03 Sem 1 2024/COMPSYS 305/01 Digital systems simulation.md",
-    "03 Sem 1 2024/SOFTENG 351/03 Modelling Relationships.md",
-    "03 Sem 1 2024/SOFTENG 351/02 Data Modelling.md",
-    "03 Sem 1 2024/SOFTENG 351/01 Intro to Databases.md",
-    "Attachments/Pasted image 20240314152220.png",
-    "Attachments/Pasted image 20240313093737.png",
-    "Attachments/Pasted image 20240313093712.png",
-    "03 Sem 1 2024/COMPSYS 305",
-    "03 Sem 1 2024/SOFTENG 351",
-    "03 Sem 1 2024/SOFTENG 370",
-    "03 Sem 1 2024",
-    "02 Sem 2 2023/SOFTENG 283/Part 2",
-    "02 Sem 2 2023/SOFTENG 283/Part 1",
-    "02 Sem 2 2023/SOFTENG 284/Rajko",
-    "02 Sem 2 2023/SOFTENG 284/zGraphs",
-    "Sem 2 2023/ENGGEN 204.zip",
+    "03 Sem 1 2024/SOFTENG 370/Part 2/04 Memory.md",
+    "03 Sem 1 2024/SOFTENG 370/Summary.md",
+    "01 Sem 1 2023/SOFTENG 282/Arrangement, Selection, etc.md",
+    "01 Sem 1 2023/SOFTENG 282/Deterministic Final Automina.md",
+    "03 Sem 1 2024/SOFTENG 351/Part 2/04 Transactions.md",
+    "Attachments/Pasted image 20240522202657.png",
+    "Attachments/Pasted image 20240522202211.png",
+    "03 Sem 1 2024/SOFTENG 351/Part 2/SQL Joins.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 2/03 Other File Systems.md",
+    "Attachments/Pasted image 20240518195248.png",
+    "Attachments/Pasted image 20240518194318.png",
+    "Attachments/Pasted image 20240518193741.png",
+    "03 Sem 1 2024/SOFTENG 370/Part 2/02 File Data Structures.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/10 CPU Scheduling.md",
+    "03 Sem 1 2024/SOFTENG 351/Part 1/07 Relational Algebra.md",
+    "03 Sem 1 2024/SOFTENG 351/Part 2/03 Query Processing.md",
+    "Attachments/Pasted image 20240518104429.png",
+    "Attachments/Pasted image 20240518104219.png",
+    "Attachments/Pasted image 20240518103607.png",
+    "Attachments/Pasted image 20240518103340.png",
+    "Attachments/Pasted image 20240518102458.png",
+    "03 Sem 1 2024/SOFTENG 370/Part 2/01 File Systems.md",
+    "03 Sem 1 2024/SOFTENG 351/Part 1/08 Normalisation.md",
+    "03 Sem 1 2024/SOFTENG 351/Part 2/02 Indexing.md",
+    "03 Sem 1 2024/SOFTENG 351/Part 2/01 Storage Management.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/01 Intro to OS.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 2/11 File Systems.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 2",
+    "03 Sem 1 2024/SOFTENG 370/Part 1",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/05 Inter-Process Communication (ICP).md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/08 Concurrent Programming.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/09 Deadlock.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/07 Threads.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/04 Process Creation.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/02 C Programming.md",
+    "03 Sem 1 2024/SOFTENG 370/Part 1/03 Kernel Module Development.md",
+    "02 Sem 2 2023/SOFTENG 284/Binary Trees_.md",
+    "02 Sem 2 2023/SOFTENG 284/zGraphs/01 Storing Graphs.md",
+    "Attachments/S2_2023",
+    "Other",
     "Untitled.canvas",
-    "01 Sem 1 2023/ENGSCI 211 DA kinda/Test 2 Cheatsheet.docx"
+    "Untitled 1.canvas",
+    "Other/Extended Algorithms"
   ]
 }

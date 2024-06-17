@@ -7,9 +7,9 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": null,
+  "pandoc": "/opt/homebrew/bin/pandoc",
   "pdflatex": null,
-  "outputFolder": null,
+  "outputFolder": "/Users/ben/Desktop/test",
   "extraArguments": "",
   "exportFrom": "html"
 }

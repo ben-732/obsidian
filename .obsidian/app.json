@@ -1,15 +1,9 @@
 {
-  "vimMode": false,
-  "trashOption": "local",
-  "alwaysUpdateLinks": true,
-  "spellcheck": true,
-  "spellcheckLanguages": null,
-  "attachmentFolderPath": "Attachments",
   "pdfExportSettings": {
-    "pageSize": "A4",
+    "includeName": true,
+    "pageSize": "Letter",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 100
-  },
-  "tabSize": 2
+    "margin": "0",
+    "downscalePercent": 80
+  }
 }

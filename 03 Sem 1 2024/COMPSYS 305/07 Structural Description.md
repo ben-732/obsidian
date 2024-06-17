@@ -111,6 +111,8 @@ If both are specified, the value provided by the `generic map( )` takes preceden
 
 Generic constants are passed through multiple levels of the hierarchy.
 
+When you want to assign all bits of a vector, you can do `v_q := (others => '0')`
+
 
 #### Example
 Creating an *n-input parameterised OR gate*

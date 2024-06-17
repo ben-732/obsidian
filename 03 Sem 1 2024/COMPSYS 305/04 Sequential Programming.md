@@ -214,7 +214,7 @@ wait on clk for 100ns;
 VHDL Provides subprograms which consist of sequential programming statements to perform a certain task.
 
 Subprograms may be declared and defined in either:
-- An architecture (Visible to all processes in the architecture)
+- An architecture  (Visible to all processes in the architecture)
 - A process (Visible only to the process its defined in)
 
 There are two types of subprograms

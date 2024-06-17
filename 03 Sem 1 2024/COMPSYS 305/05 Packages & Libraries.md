@@ -128,6 +128,7 @@ Signed numbers are represented in two’s complement form.
 
 ![[Pasted image 20240313093712.png | center | 500]]
 
+For `std_logic_unsigned`
 ![[Pasted image 20240313093737.png | center | 500]]
 
 
